@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my (still very much in progress) personal site.  
 
-Things you may want to cover:
+Goals of this site:
 
-* Ruby version
+* Display top projects
 
-* System dependencies
+* About me
 
-* Configuration
+* Contact information 
 
-* Database creation
+* Blog 
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Potentially separate sections for writing and dance/dj events (future goals)
 
 * ...
+
+
